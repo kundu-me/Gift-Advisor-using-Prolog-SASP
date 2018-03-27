@@ -1,0 +1,12 @@
+cd "Google Drive\_UTD_Grad_Semesters\_UTD_SPRING_2017_\ComputationalLogic\Project\Final_Project\CL_Project_Submission\sasp-1.0.5"
+
+
+sasp -i ../sasp_code/advisor.lp
+
+advise_gift(u1, Gift).
+
+advise_gift(u2, Gift).
+
+advise_gift(u3, Gift).
+
+advise_gift(u4, Gift).
